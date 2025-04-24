@@ -80,6 +80,8 @@ Sample Input and Output
 ## Sample String:
 Artificial Intelligence
 ## Output:
+
+```
 Score: 643 Solution : 8RzF:oG ]%;CPORRMe!zGvk
 Score: 609 Solution : 8RzF:oG ]%;CPqRRMe!zGvk
 Score: 604 Solution : 8RzF:oG ]%;CPqRRMe!zGqk
@@ -97,6 +99,9 @@ Score: 1 Solution : Artificial Intelligencf
 Score: 1 Solution : Artificial Intelligencf
 Score: 1 Solution : Artificial Intelligencf
 Score: 0 Solution : Artificial Intelligence
+
+```
+
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/1d1c1dff-505d-4cc3-b40c-e2d066c3480d)
 
